@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FirebaseExample</string>
+    <string name="main_sign_in">SignIn</string>
+    <string name="main_sign_up">SignUp</string>
+    <string name="main_sign_out">SignOut</string>
+</resources>
