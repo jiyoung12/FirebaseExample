@@ -3,12 +3,93 @@
 
     <item
         is-multidex="true"
-        jar="/Users/jiyoung/Documents/GitHub/FirebaseExample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/jiyoung/.android/build-cache/c388c493588f91629b0c5397fe0fed5c16ebbe40/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="a9eec9cb3def6bfa2a86dd9c751838b97e4adc2f">
-        <dex dex="/Users/jiyoung/Documents/GitHub/FirebaseExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_39877d94355de47ea535ced54dd44e9be7e23f30/classes.dex" />
+        sha1="edba0aec4aedd4edb3a520b4ee87adc52be762da">
+        <dex dex="/Users/jiyoung/Documents/GitHub/FirebaseExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_03f5c0018cbc97d872bb487c60c00c295d395114/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiyoung/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.2/8b68a849722b44f584e2d68c451c5e3844c10380/support-annotations-26.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8b68a849722b44f584e2d68c451c5e3844c10380">
+        <dex dex="/Users/jiyoung/Documents/GitHub/FirebaseExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.2_482a570b23ff8fc5f4c1fb6eeeaa7f0946b9196c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiyoung/.android/build-cache/d7a1de6f1ee544db41e4be647f86816b7cecae59/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="56ae1b700bdd20fdf8c5347fadcc96228fc1bf16">
+        <dex dex="/Users/jiyoung/Documents/GitHub/FirebaseExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9f56c4972f853f6d106dbe7973970a3be4e029bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiyoung/.android/build-cache/a8ad436aded3e18a712da316bcb2517cddcf5060/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="341fc0b4661ec63331b1d95d8ceaeb04f5fd25cd">
+        <dex dex="/Users/jiyoung/Documents/GitHub/FirebaseExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a4d6631016cb0d33b3c88eea245e63c852ef3257/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiyoung/.android/build-cache/267d3fb2999f46fefa728961f15e74497df88957/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c478771eacdf8217e093a1b967b8152cfdaadc94">
+        <dex dex="/Users/jiyoung/Documents/GitHub/FirebaseExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_97544d38782ce993f0dfb6804c4faca33741607a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiyoung/.android/build-cache/c1de14dbaa5bd6781c8851a542bd5f59d7aff5e5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="132a3661719fdac703f2a6f6a7b178c85cfe3cc6">
+        <dex dex="/Users/jiyoung/Documents/GitHub/FirebaseExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9a0bde8a88f64dc348eb8c0ae1ee7663175f3294/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiyoung/.android/build-cache/afbab7fa24e350cba729598c90a3f83179189cd0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3da345d7c08a7e9d83a34d8723057624b941c0ea">
+        <dex dex="/Users/jiyoung/Documents/GitHub/FirebaseExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b283bbc7197f28e4d4e5f83ab9454d637cf33839/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiyoung/.android/build-cache/626667db47d3a8a73c6319c3217aeb065fb1069c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eef44a34be1eef845ecb4072e3692b434af05ad4">
+        <dex dex="/Users/jiyoung/Documents/GitHub/FirebaseExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_afa4b82c49beb6de29a2d6f06e2fc13e00c9ca46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiyoung/.android/build-cache/ceb04690882bb828d587c86dff434e36dd51fc5e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7b4dc2d9e39fb8ec5ddca9b3b3cb7c627690f3a6">
+        <dex dex="/Users/jiyoung/Documents/GitHub/FirebaseExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b674a226bf0487c39e84410accbfe20b3a178154/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiyoung/.android/build-cache/ecd83d1a8e141f7c628fdc722fb5543603395f70/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="28ed270c519ff2874343e0824808da2efda0df9c">
+        <dex dex="/Users/jiyoung/Documents/GitHub/FirebaseExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_82e54450af2d4318ac1c714105e0573f444e5be4/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -18,6 +99,114 @@
         revision="26.0.1"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
         <dex dex="/Users/jiyoung/Documents/GitHub/FirebaseExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_016aae0408b701ac77dd196dfc0784db10d3c4fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiyoung/.android/build-cache/239bd4840c79ad3cc3fdcde13ce776b5228c7c2c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="28cb30c89c8e501ded77e960407731df6c54b844">
+        <dex dex="/Users/jiyoung/Documents/GitHub/FirebaseExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ece371da3d774e9220ba1ff51fe897d2a85dac3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiyoung/.android/build-cache/7732c59478454803ee0e2324a750ce6b08b7603b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b4a446c110c5a9f3a62907367d5eea4d4062c36a">
+        <dex dex="/Users/jiyoung/Documents/GitHub/FirebaseExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d8fd1f3caf7cd8e1b5324171a0c88d5a150c971c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiyoung/.android/build-cache/d71f699cb62d9f63162f179029faa9e0e3397a77/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="48a969b476c5c4bd8cabfe295428ff222bc68b8e">
+        <dex dex="/Users/jiyoung/Documents/GitHub/FirebaseExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d79ba447057b9610d88feedee94a4afbeccb7253/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiyoung/.android/build-cache/b09d17676473783c1110c3e4544f5f8da94cd80c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="36a6c288ed760d2d899126fa90761b84af10dd2d">
+        <dex dex="/Users/jiyoung/Documents/GitHub/FirebaseExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_350ff7e91318bc0fe2dbcd63e53ebfeecf5e84eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiyoung/.android/build-cache/ab295310730691cc4d08516b75476b56bf6388d1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="138b5e3a5341bb37117b13f327de68f81f9f0669">
+        <dex dex="/Users/jiyoung/Documents/GitHub/FirebaseExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ad6459d244e8e7c182982ec2ee56160a9a470f41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiyoung/.android/build-cache/4592033fa5b2b8f07bdbd672c682b7773bb473c7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cad6f251cba07624f49b0c5b6287731a3c9957b8">
+        <dex dex="/Users/jiyoung/Documents/GitHub/FirebaseExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cf1b7edbf9c62074fc6bbc3b814b7df30af999dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiyoung/.android/build-cache/1c0d83300beec5360fc82a12019be76ccc7971ab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f9f219b8a8acc35922ab06f4ff29769041481b4b">
+        <dex dex="/Users/jiyoung/Documents/GitHub/FirebaseExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_33c6c07a85c38b2c6cb0c0c3611cddfce896b79d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiyoung/.android/build-cache/9e17ec7113ae4beead98637f5dc1994868d19e66/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d1e7ad8d5340b695e52cc5a14819f4264a4f4b8e">
+        <dex dex="/Users/jiyoung/Documents/GitHub/FirebaseExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7090f93f5135eac79b1ddf86e2e6e5e96d1fe08d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiyoung/.android/build-cache/9aff509c571e81e9dcf2685d5a297541ab7c94f2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4e38f488b591fa8ef9dce3e21752c92bde5f6f7c">
+        <dex dex="/Users/jiyoung/Documents/GitHub/FirebaseExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_569ed898bd50c40349df8029d2787f34ecf1487c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiyoung/Documents/GitHub/FirebaseExample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9b9a7790a832534d049bb8aa682937d655504a4a">
+        <dex dex="/Users/jiyoung/Documents/GitHub/FirebaseExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_39877d94355de47ea535ced54dd44e9be7e23f30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiyoung/.android/build-cache/2c6d9453075516ed029a333eb5064026ae6a89d8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jiyoung/Documents/GitHub/FirebaseExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4f01bd6681455d8aa1d2d1697abd22579fb8b390/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiyoung/.android/build-cache/979a1aba33f1f4622e7c405dc32cc3a3e6fdee1d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="97cd0ab3ffad045a162fc1a413fe6abc58e199c4">
+        <dex dex="/Users/jiyoung/Documents/GitHub/FirebaseExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_731bac633247107952780a5b7b0c9deba5d55bfb/classes.dex" />
     </item>
 
 </items>
