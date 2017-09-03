@@ -6,12 +6,12 @@ import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
-import android.util.Log;
 import android.view.Gravity;
 import android.view.ViewGroup;
 import android.widget.LinearLayout;
 import android.widget.ProgressBar;
 
+import com.example.jiyoung.firebaseexample.util.Log;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 
@@ -44,10 +44,10 @@ public class BaseActivity extends AppCompatActivity {
 
                 if (user != null) {
 
-                    Log.d(TAG, "onAuthStateChanged:signed_in:" + user.getUid());
+                    Log.d( "onAuthStateChanged:signed_in:" + user.getUid());
                 } else {
 
-                    Log.d(TAG, "onAuthStateChanged:signed_out");
+                    Log.d( "onAuthStateChanged:signed_out");
                 }
             }
 
@@ -57,6 +57,10 @@ public class BaseActivity extends AppCompatActivity {
 
     }
 
+    /**
+     * 로딩바 보여주기
+     * @TODO dim 처리 추가하기 알럿창과 공용으로 사용할 수 있도록 따로 빼놓기
+     */
     public void showLoadingBar(){
         if (dialog == null){
             dialog = new Dialog(this, android.R.style.Theme_Light_NoTitleBar);
@@ -78,6 +82,9 @@ public class BaseActivity extends AppCompatActivity {
         dialog.show();
     }
 
+    /**
+     * 로딩바 숨기기
+     */
     public void hideLoadingBar(){
         if (dialog != null && dialog.isShowing()){
             dialog.dismiss();
@@ -85,13 +92,16 @@ public class BaseActivity extends AppCompatActivity {
     }
 
     public void signOut(){
+
+        Log.d(this.getClass().getName());
         mAuth.signOut();
     }
+
 
     @Override
     protected void onStop() {
         super.onStop();
-        hideLoadingBar();
+        hideLoadingBar(); // onStop 인경우 로딩바를 숨겨준다
     }
 
     @Override

@@ -24,6 +24,11 @@ import static org.junit.Assert.assertEquals;
  *
  * @see <a href="http://d.android.com/tools/testing">Testing documentation</a>
  */
+
+
+/**
+ * UI를 테스트 하기위해서는 Espresso, Activity 및 Service 테스틑는 JUnit4 사용
+ */
 @RunWith(AndroidJUnit4.class)
 public class ExampleInstrumentedTest {
     @Test
@@ -39,9 +44,9 @@ public class ExampleInstrumentedTest {
 
     @Test
     public void listGoesOverTheFold() {
-        onView(withText(R.string.main_sign_in)).check(matches(isDisplayed()));
-        onView(withId(R.id.et_email)).check(matches(isDisplayed()));
-        onView(withId(R.id.btn_ok)).perform(click());
+        onView(withText(R.string.main_sign_in)).check(matches(isDisplayed())); // 해당 텍스트를 가진 뷰가 표시되었는지 확
+        onView(withId(R.id.et_email)).check(matches(isDisplayed()));  // 해당뷰가 화면에 표시되었는지 확인
+        onView(withId(R.id.btn_ok)).perform(click()); // 해당뷰 클릭
     }
 
 }

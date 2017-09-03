@@ -78,6 +78,10 @@ public class LoginActivity extends BaseActivity implements View.OnClickListener,
         }
     }
 
+    /**
+     * 구글 로그인 한 결과로 FireBase에 저장해 준다
+     * @param acc 구글 로그인 결과
+     */
     private void firebaseWithGoogleLogin(GoogleSignInAccount acc) {
         Log.d( "ID : "+ acc.getId());
 

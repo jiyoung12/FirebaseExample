@@ -228,6 +228,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/jiyoung/Documents/GitHub/FirebaseExample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9b9a7790a832534d049bb8aa682937d655504a4a">
+        <dex dex="/Users/jiyoung/Documents/GitHub/FirebaseExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_39877d94355de47ea535ced54dd44e9be7e23f30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/jiyoung/.android/build-cache/1c0d83300beec5360fc82a12019be76ccc7971ab/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -333,6 +342,15 @@
         revision="26.0.1"
         sha1="3da345d7c08a7e9d83a34d8723057624b941c0ea">
         <dex dex="/Users/jiyoung/Documents/GitHub/FirebaseExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b283bbc7197f28e4d4e5f83ab9454d637cf33839/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiyoung/Documents/GitHub/FirebaseExample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/jiyoung/Documents/GitHub/FirebaseExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_016aae0408b701ac77dd196dfc0784db10d3c4fc/classes.dex" />
     </item>
     <item
         is-multidex="true"
